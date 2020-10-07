@@ -1,0 +1,50 @@
+.b1 {
+  font-size: 75px;
+  margin: 3px;
+  width: 90px;
+}
+.b2 {
+  font-size: 75px;
+  margin: 3px;
+  width: 90px;
+}
+.b3 {
+  font-size: 75px;
+  margin: 3px;
+  width: 90px;
+}
+.main {
+  border: 3px solid;
+  width: 700px;
+  height: 600px;
+  align-content: center;
+  text-align: center;
+}
+.title {
+  text-align: center;
+  border: 10px solid slateblue;
+}
+.row1 {
+  display: flex;
+  padding: 25px 25px;
+  text-align: center;
+  align-content: center;
+}
+.row2 {
+  display: flex;
+  padding: 25px 25px;
+  text-align: center;
+  align-content: center;
+}
+.row3 {
+  display: flex;
+  padding: 25px 25px;
+  text-align: center;
+  align-content: center;
+}
+.row4 {
+  display: flex;
+  padding: 25px 25px;
+  text-align: center;
+  align-content: center;
+}
